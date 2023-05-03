@@ -2,7 +2,7 @@
 <div align="center" style="color: #aaa">
 esinx
 <br/>
-<code>["UPenn NETS", "Fullstack Developer", "Bassist", "ROKA Soldier"]</code>
+<code>["UPenn NETS", "Fullstack Developer", "Bassist", "01ab"]</code>
 </div>
 
 <p align="center">
