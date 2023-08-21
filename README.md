@@ -13,6 +13,7 @@ esinx
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-398ccb?style=flat-square&logo=trpc&logoColor=white" />
   <img alt="Reason" src="https://img.shields.io/badge/-Reason-DD4B39?style=flat-square&logo=reason&logoColor=white" />
   <img alt="PWA" src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
